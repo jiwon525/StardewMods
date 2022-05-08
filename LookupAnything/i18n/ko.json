@@ -382,8 +382,8 @@
     "item.needed-for.full-collection": "도전과제 '수집 완료' (박물관에 기증)",
     "item.needed-for.gourmet-chef": "도전과제 '미식가 요리사' ({{recipes}}을/를 요리하세요)",
     "item.needed-for.craft-master": "도전과제 '제작의 달인' ({{recipes}}을/를 제작하세요)",
-    "item.needed-for.quests": "current quests ({{quests}})", // TODO
-    "item.sells-to.shipping-box": "출하 상자",
+    "item.needed-for.quests": "현재 퀘스트 ({{quests}})", 
+    "item.sells-to.shipping-box": "배송 상자",
     "item.recipes-for-ingredient.entry": "{{name}} ({{count}}개 필요)",
     "item.recipes-for-machine.multiple-items": "{{name}} x{{count}}",
     "item.number-owned.summary": "당신은 이것들을 {{count}}개 보유중.",
@@ -453,7 +453,7 @@
     "item.movie-ticket.loves-movie": "사랑하는 영화",
     "item.movie-ticket.likes-movie": "좋아하는 영화",
     "item.movie-ticket.dislikes-movie": "싫어하는 영화",
-    "item.movie-ticket.rejects-movie": "Won't watch movie", // TODO
+    "item.movie-ticket.rejects-movie": "시청 거부하는 영화",
 
     // values
     "item.movie-snack-preference.love": "{{name}} 사랑함",
